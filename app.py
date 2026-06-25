@@ -1,4 +1,5 @@
 # testing the linter
+# Flask is the framework for python
 from flask import Flask, render_template
 app = Flask(__name__)
 
